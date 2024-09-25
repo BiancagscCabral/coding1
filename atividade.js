@@ -18,9 +18,5 @@ console.log(num1 - num2)
 console.log(num1 * num2)
 console.log(num1 / num2)
 
-4
-const triangulo = {
-    base: 5,  // exemplo de valor da base
-    altura: 10 //exemplo valor de altura
-};
+
 
