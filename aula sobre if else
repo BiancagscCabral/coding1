@@ -1,0 +1,20 @@
+Se portaAberta (if)
+Faça acenderLâmpada
+- console.log()
+- return
+Do contrario (else)
+Faça apagarLâmpada
+ 
+const portaAberta = true
+if(portaAberta == true) {
+  console.log("A porta está aberta, lâmpada acesa")
+} else { 
+  console.log("A porta está fechada, lâmpada apagada")
+}
+ 
+const portaAberta = false
+if(portaAberta == true) {
+  console.log("A porta está aberta, lâmpada acesa")
+} else { 
+  console.log("A porta está fechada, lâmpada apagada")
+}
